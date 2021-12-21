@@ -4,7 +4,7 @@
     background-size:contain;
 	background:url(Grass.jpg);
 }
-#myCanvas
+#canvas
 {
     border-width:10px;
     border-style:ridge;
